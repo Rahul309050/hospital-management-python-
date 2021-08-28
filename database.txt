@@ -1,0 +1,4 @@
+/bin/python3 /home/rahul/Desktop/Python-authentication-system-master/auth.py, /bin/python3 /home/rahul/Desktop/Python-authentication-system-master/auth.py
+rahul, 309050rahul
+rahul123, Rahul309050
+krish, krish123456
